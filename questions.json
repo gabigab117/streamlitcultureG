@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "options": [
+      "Londres",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correct": "Paris"
+  },
+  {
+    "question": "Qui a peint La Joconde ?",
+    "options": [
+      "Van Gogh",
+      "Picasso",
+      "Da Vinci",
+      "Monet"
+    ],
+    "correct": "Da Vinci"
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "options": [
+      "Atlantique",
+      "Indien",
+      "Arctique",
+      "Pacifique"
+    ],
+    "correct": "Pacifique"
+  },
+  {
+    "question": "En quelle année a eu lieu la Révolution française ?",
+    "options": [
+      "1789",
+      "1804",
+      "1756",
+      "1799"
+    ],
+    "correct": "1789"
+  },
+  {
+    "question": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+    "options": [
+      "Oxygène",
+      "Carbone",
+      "Hydrogène",
+      "Azote"
+    ],
+    "correct": "Hydrogène"
+  },
+  {
+    "question": "Quel est le plus long fleuve du monde ?",
+    "options": [
+      "Amazone",
+      "Nil",
+      "Mississippi",
+      "Yangtsé"
+    ],
+    "correct": "Nil"
+  },
+  {
+    "question": "Qui a écrit '1984' ?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "correct": "George Orwell"
+  },
+  {
+    "question": "Quelle planète est surnommée 'la planète rouge' ?",
+    "options": [
+      "Vénus",
+      "Jupiter",
+      "Mars",
+      "Saturne"
+    ],
+    "correct": "Mars"
+  },
+  {
+    "question": "Quel est le plus grand désert du monde ?",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Antarctique",
+      "Kalahari"
+    ],
+    "correct": "Antarctique"
+  },
+  {
+    "question": "Qui a formulé la théorie de la relativité ?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Stephen Hawking",
+      "Niels Bohr"
+    ],
+    "correct": "Albert Einstein"
+  }
+]
